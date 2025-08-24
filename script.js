@@ -1,4 +1,5 @@
-//Classificação de heróis por XP
+//Classificação de heroi por XP
+//AUTOR: Miguel P. Lobo
 
 let nomeHeroi = "Tonho Pipoco";
 let xpHeroi = 10001; 
